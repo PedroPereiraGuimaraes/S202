@@ -1,5 +1,5 @@
 class Animal:
-    def __int__(self, nome, idade, especie, cor, som):
+    def __init__(self, nome, idade, especie, cor, som):
         self.nome = nome
         self.idade = idade
         self.especie = especie
