@@ -1,0 +1,13 @@
+[{
+   "nome": "Bob",
+   "cores": ["preto", "branco"],
+   "som": "fiuuu",
+   "especie": "grande"
+},
+{
+   "nome": "Dumbo",
+   "cores": ["amarelo", "cinza"],
+   "som": "siuuu",
+   "especie": "orelhuda"
+}
+]
