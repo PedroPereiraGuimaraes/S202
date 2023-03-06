@@ -1,0 +1,358 @@
+[
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2d56"
+        },
+        "id": 3,
+        "name": {
+            "english": "Venusaur",
+            "japanese": "\u30d5\u30b7\u30ae\u30d0\u30ca",
+            "chinese": "\u5999\u86d9\u82b1",
+            "french": "Florizarre"
+        },
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 82,
+            "Defense": 83,
+            "Sp. Attack": 100,
+            "Sp. Defense": 100,
+            "Speed": 80
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2d72"
+        },
+        "id": 31,
+        "name": {
+            "english": "Nidoqueen",
+            "japanese": "\u30cb\u30c9\u30af\u30a4\u30f3",
+            "chinese": "\u5c3c\u591a\u540e",
+            "french": "Nidoqueen"
+        },
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "base": {
+            "HP": 90,
+            "Attack": 92,
+            "Defense": 87,
+            "Sp. Attack": 75,
+            "Sp. Defense": 85,
+            "Speed": 76
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2d80"
+        },
+        "id": 45,
+        "name": {
+            "english": "Vileplume",
+            "japanese": "\u30e9\u30d5\u30ec\u30b7\u30a2",
+            "chinese": "\u9738\u738b\u82b1",
+            "french": "Rafflesia"
+        },
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "base": {
+            "HP": 75,
+            "Attack": 80,
+            "Defense": 85,
+            "Sp. Attack": 110,
+            "Sp. Defense": 90,
+            "Speed": 50
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2dc0"
+        },
+        "id": 109,
+        "name": {
+            "english": "Koffing",
+            "japanese": "\u30c9\u30ac\u30fc\u30b9",
+            "chinese": "\u74e6\u65af\u5f39",
+            "french": "Smogo"
+        },
+        "type": [
+            "Poison"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 65,
+            "Defense": 95,
+            "Sp. Attack": 60,
+            "Sp. Defense": 45,
+            "Speed": 35
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2dc1"
+        },
+        "id": 110,
+        "name": {
+            "english": "Weezing",
+            "japanese": "\u30de\u30bf\u30c9\u30ac\u30b9",
+            "chinese": "\u53cc\u5f39\u74e6\u65af",
+            "french": "Smogogo"
+        },
+        "type": [
+            "Poison"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 90,
+            "Defense": 120,
+            "Sp. Attack": 85,
+            "Sp. Defense": 70,
+            "Speed": 60
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2dfc"
+        },
+        "id": 169,
+        "name": {
+            "english": "Crobat",
+            "japanese": "\u30af\u30ed\u30d0\u30c3\u30c8",
+            "chinese": "\u53c9\u5b57\u8760",
+            "french": "Nostenfer"
+        },
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "base": {
+            "HP": 85,
+            "Attack": 90,
+            "Defense": 80,
+            "Sp. Attack": 70,
+            "Sp. Defense": 80,
+            "Speed": 130
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2e26"
+        },
+        "id": 211,
+        "name": {
+            "english": "Qwilfish",
+            "japanese": "\u30cf\u30ea\u30fc\u30bb\u30f3",
+            "chinese": "\u5343\u9488\u9c7c",
+            "french": "Qwilfish"
+        },
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 95,
+            "Defense": 85,
+            "Sp. Attack": 55,
+            "Sp. Defense": 55,
+            "Speed": 85
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2e90"
+        },
+        "id": 317,
+        "name": {
+            "english": "Swalot",
+            "japanese": "\u30de\u30eb\u30ce\u30fc\u30e0",
+            "chinese": "\u541e\u98df\u517d",
+            "french": "Avaltout"
+        },
+        "type": [
+            "Poison"
+        ],
+        "base": {
+            "HP": 100,
+            "Attack": 73,
+            "Defense": 83,
+            "Sp. Attack": 73,
+            "Sp. Defense": 83,
+            "Speed": 55
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2f16"
+        },
+        "id": 451,
+        "name": {
+            "english": "Skorupi",
+            "japanese": "\u30b9\u30b3\u30eb\u30d4",
+            "chinese": "\u94b3\u5c3e\u874e",
+            "french": "Rapion"
+        },
+        "type": [
+            "Poison",
+            "Bug"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 50,
+            "Defense": 90,
+            "Sp. Attack": 30,
+            "Sp. Defense": 55,
+            "Speed": 65
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2f17"
+        },
+        "id": 452,
+        "name": {
+            "english": "Drapion",
+            "japanese": "\u30c9\u30e9\u30d4\u30aa\u30f3",
+            "chinese": "\u9f99\u738b\u874e",
+            "french": "Drascore"
+        },
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "base": {
+            "HP": 70,
+            "Attack": 90,
+            "Defense": 110,
+            "Sp. Attack": 60,
+            "Sp. Defense": 75,
+            "Speed": 95
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2f73"
+        },
+        "id": 544,
+        "name": {
+            "english": "Whirlipede",
+            "japanese": "\u30db\u30a4\u30fc\u30ac",
+            "chinese": "\u8f66\u8f6e\u7403",
+            "french": "Scobolide"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 40,
+            "Attack": 55,
+            "Defense": 99,
+            "Sp. Attack": 40,
+            "Sp. Defense": 79,
+            "Speed": 47
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2f74"
+        },
+        "id": 545,
+        "name": {
+            "english": "Scolipede",
+            "japanese": "\u30da\u30f3\u30c9\u30e9\u30fc",
+            "chinese": "\u8708\u86a3\u738b",
+            "french": "Brutapode"
+        },
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "base": {
+            "HP": 60,
+            "Attack": 100,
+            "Defense": 89,
+            "Sp. Attack": 55,
+            "Sp. Defense": 69,
+            "Speed": 112
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f2f8c"
+        },
+        "id": 569,
+        "name": {
+            "english": "Garbodor",
+            "japanese": "\u30c0\u30b9\u30c8\u30c0\u30b9",
+            "chinese": "\u7070\u5c18\u5c71",
+            "french": "Miasmax"
+        },
+        "type": [
+            "Poison"
+        ],
+        "base": {
+            "HP": 80,
+            "Attack": 95,
+            "Defense": 82,
+            "Sp. Attack": 60,
+            "Sp. Defense": 82,
+            "Speed": 75
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f3006"
+        },
+        "id": 691,
+        "name": {
+            "english": "Dragalge",
+            "japanese": "\u30c9\u30e9\u30df\u30c9\u30ed",
+            "chinese": "\u6bd2\u85fb\u9f99",
+            "french": "Kravarech"
+        },
+        "type": [
+            "Poison",
+            "Dragon"
+        ],
+        "base": {
+            "HP": 65,
+            "Attack": 75,
+            "Defense": 90,
+            "Sp. Attack": 97,
+            "Sp. Defense": 123,
+            "Speed": 44
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6405dcf5328c1e43b11f303f"
+        },
+        "id": 748,
+        "name": {
+            "english": "Toxapex",
+            "japanese": "\u30c9\u30d2\u30c9\u30a4\u30c7",
+            "chinese": "\u8d85\u574f\u661f",
+            "french": "Pr\u00e9dast\u00e9rie"
+        },
+        "type": [
+            "Poison",
+            "Water"
+        ],
+        "base": {
+            "HP": 50,
+            "Attack": 63,
+            "Defense": 152,
+            "Sp. Attack": 53,
+            "Sp. Defense": 142,
+            "Speed": 35
+        }
+    }
+]
