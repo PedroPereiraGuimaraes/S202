@@ -1,0 +1,32 @@
+[
+    {
+        "assunto": "Limite",
+        "alunos": [
+            {"nome":"Julio"},
+            {"nome":"Antonio"},
+            {"nome":"Pedro"},
+            {"nome":"Claudio"}
+    ],
+        "professor": {"nome":"Renan"}
+     },
+     {
+        "assunto": "Leis de Newton",
+        "alunos": [
+            {"nome":"Clara"},
+            {"nome":"José"},
+            {"nome":"Ana"},
+            {"nome":"Felipe"}
+    ],
+        "professor": {"nome":"Luis Felipe"}
+     },
+     {
+        "assunto": "POO",
+        "alunos": [
+            {"nome":"Francisco"},
+            {"nome":"Gabriel"},
+            {"nome":"Alvaro"},
+            {"nome":"Larissa"}
+    ],
+        "professor": {"nome":"Renzo"}
+     }
+]
