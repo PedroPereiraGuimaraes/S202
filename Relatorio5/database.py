@@ -2,7 +2,7 @@ from typing import Collection
 import pymongo
 import json
 
-with open('../Relatorio4/json/data.json', encoding='utf8') as f:
+with open('json/data.json', encoding='utf8') as f:
     dataset = json.load(f)
 
 
