@@ -1,0 +1,20 @@
+{
+  "id": "1",
+  "nome": "Morcego",
+  "especie": "Mamífero",
+  "idade": "22",
+  "habitat": [
+    {
+      "id": "1",
+      "nome": "Caverna",
+      "tipoAmbiente": "Humido",
+      "cuidador": {
+        "id": "1",
+        "nome": "João",
+        "documento": "12332222222"
+      }
+    }
+  ]
+}
+
+
