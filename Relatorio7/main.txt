@@ -1,0 +1,21 @@
+
+//AGREGAÇÕES
+MATCH(n:PhoneNumber) RETURN COUNT(*);
+MATCH(n:AccountHolder) RETURN COUNT(*);
+MATCH(n:Address) RETURN COUNT(*);
+MATCH(n:CreditCard) RETURN COUNT(*);
+MATCH(n:BankCard) RETURN COUNT(*);
+
+//FUNÇÕES MATEMÁTICAS
+MATCH (n:BankCard) RETURN ROUND(n.balance);
+MATCH (n:BankCard) RETURN CEIL(n.balance);
+MATCH (n:BankCard) RETURN FLOOR(n.balance);
+MATCH (n:BankCard) RETURN ABS(n.balance);
+MATCH (n:BankCard) RETURN SIGN(n.balance);
+
+//FUNÇÕES DE STRING
+MATCH (n:DeliveryAddress) RETURN TOUPPER(n.state);
+MATCH (n:BankAccount) WHERE n.accountNumber CONTAINS '11' RETURN n;
+MATCH (n:DeliveryAddress) WHERE n.state CONTAINS 'New' RETURN n;
+MATCH (n:DeliveryAddress) RETURN TOLOWER(n.state);
+MATCH (n:DeliveryAddress) RETURN REPLACE(n.state, 'West Virginia', 'Indiana'); 
