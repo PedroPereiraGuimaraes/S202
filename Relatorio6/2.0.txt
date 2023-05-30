@@ -1,0 +1,322 @@
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-77.00
+Distância do Modem é de 8.41 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4E:58
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4B:28
+Nome da Rede: WLL-Inatel
+Rssi:-77.00
+Distância do Modem é de 8.41 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:30:87:D9:01:4E:48
+Nome da Rede: WLL-Inatel
+Rssi:-80.00
+Distância do Modem é de 10.00 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C1:F8
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:39:31:28
+Nome da Rede: WLL-Inatel
+Rssi:-67.00
+Distância do Modem é de 4.73 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-74.00
+Distância do Modem é de 7.08 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4B:28
+Nome da Rede: WLL-Inatel
+Rssi:-86.00
+Distância do Modem é de 14.13 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FE:08
+Nome da Rede: WLL-Inatel
+Rssi:-85.00
+Distância do Modem é de 13.34 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:BD:A8
+Nome da Rede: WLL-Inatel
+Rssi:-80.00
+Distância do Modem é de 10.00 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:30:87:D9:01:4E:48
+Nome da Rede: WLL-Inatel
+Rssi:-82.00
+Distância do Modem é de 11.22 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C1:F8
+Nome da Rede: WLL-Inatel
+Rssi:-85.00
+Distância do Modem é de 13.34 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:39:31:28
+Nome da Rede: WLL-Inatel
+Rssi:-68.00
+Distância do Modem é de 5.01 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-77.00
+Distância do Modem é de 8.41 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4E:58
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4B:28
+Nome da Rede: WLL-Inatel
+Rssi:-86.00
+Distância do Modem é de 14.13 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-82.00
+Distância do Modem é de 11.22 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:BD:A8
+Nome da Rede: WLL-Inatel
+Rssi:-81.00
+Distância do Modem é de 10.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:42:FA:C8
+Nome da Rede: WLL-CDGHub
+Rssi:-81.00
+Distância do Modem é de 10.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:30:87:D9:01:4E:48
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C1:F8
+Nome da Rede: WLL-Inatel
+Rssi:-88.00
+Distância do Modem é de 15.85 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:39:31:28
+Nome da Rede: WLL-Inatel
+Rssi:-65.00
+Distância do Modem é de 4.22 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-77.00
+Distância do Modem é de 8.41 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4E:58
+Nome da Rede: WLL-Inatel
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4B:28
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-81.00
+Distância do Modem é de 10.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:E8:1D:A8:30:F1:E8
+Nome da Rede: Inatel-BRDC-V
+Rssi:-87.00
+Distância do Modem é de 14.96 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:30:87:D9:01:4E:48
+Nome da Rede: WLL-Inatel
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C1:F8
+Nome da Rede: WLL-Inatel
+Rssi:-87.00
+Distância do Modem é de 14.96 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:39:31:28
+Nome da Rede: WLL-Inatel
+Rssi:-64.00
+Distância do Modem é de 3.98 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-74.00
+Distância do Modem é de 7.08 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4E:58
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:01:4B:28
+Nome da Rede: WLL-Inatel
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-85.00
+Distância do Modem é de 13.34 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:BD:A8
+Nome da Rede: WLL-Inatel
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:E8:1D:A8:30:E1:78
+Nome da Rede: Inatel-BRDC-V
+Rssi:-86.00
+Distância do Modem é de 14.13 metros.
+-----------------------
+
+
+Falha ao enviar dados.

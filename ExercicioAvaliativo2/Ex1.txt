@@ -1,0 +1,18 @@
+A)
+MATCH (:Usuario {nome: 'Bob'})-[:AMIGO]->(amigo)
+RETURN amigo.nome
+
+Resposta: Charlie
+
+B)
+MATCH (usuario:Usuario)-[:POSTOU]->(:Postagem {titulo: 'Memórias da Tarde'})
+RETURN usuario.nome
+
+Resposta: Bob
+
+C)
+MATCH (usuario:Usuario)-[:POSTOU]->(postagem:Postagem)
+WHERE usuario.idade > 35
+RETURN usuario.nome
+
+Resposta: Ninguem maior de 35 fez uma postagem

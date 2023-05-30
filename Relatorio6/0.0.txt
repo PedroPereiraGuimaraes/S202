@@ -1,0 +1,289 @@
+
+-----------------------
+
+
+MAC:44:D2:44:DC:BD:3B
+Nome da Rede: CDG2-HC8D94tBqx09K0@
+Rssi:-80.00
+Distância do Modem é de 10.00 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:B9:A8
+Nome da Rede: WLL-Inatel
+Rssi:-72.00
+Distância do Modem é de 6.31 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-78.00
+Distância do Modem é de 8.91 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:42:FA:C8
+Nome da Rede: WLL-CDGHub
+Rssi:-75.00
+Distância do Modem é de 7.50 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:6C:14:6E:3E:DB:A1
+Nome da Rede: Huawei-Employee
+Rssi:-87.00
+Distância do Modem é de 14.96 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:44:D2:44:DC:BD:3B
+Nome da Rede: CDG2-HC8D94tBqx09K0@
+Rssi:-68.00
+Distância do Modem é de 5.01 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-68.00
+Distância do Modem é de 5.01 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:42:FA:C8
+Nome da Rede: WLL-CDGHub
+Rssi:-69.00
+Distância do Modem é de 5.31 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:45:C2:78
+Nome da Rede: Inatel-BRDC-V
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-80.00
+Distância do Modem é de 10.00 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:B4:79:C8:38:B1:C8
+Nome da Rede: WLL-Inatel
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:78:B1:C8
+Nome da Rede: Inatel-BRDC-V
+Rssi:-82.00
+Distância do Modem é de 11.22 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:44:D2:44:DC:BD:3B
+Nome da Rede: CDG2-HC8D94tBqx09K0@
+Rssi:-72.00
+Distância do Modem é de 6.31 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-64.00
+Distância do Modem é de 3.98 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:42:FA:C8
+Nome da Rede: WLL-CDGHub
+Rssi:-65.00
+Distância do Modem é de 4.22 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:45:C2:78
+Nome da Rede: Inatel-BRDC-V
+Rssi:-79.00
+Distância do Modem é de 9.44 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C2:78
+Nome da Rede: WLL-Inatel
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:44:D2:44:DC:BD:3B
+Nome da Rede: CDG2-HC8D94tBqx09K0@
+Rssi:-84.00
+Distância do Modem é de 12.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-78.00
+Distância do Modem é de 8.91 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:42:FA:C8
+Nome da Rede: WLL-CDGHub
+Rssi:-76.00
+Distância do Modem é de 7.94 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:45:C2:78
+Nome da Rede: Inatel-BRDC-V
+Rssi:-68.00
+Distância do Modem é de 5.01 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C2:78
+Nome da Rede: WLL-Inatel
+Rssi:-68.00
+Distância do Modem é de 5.01 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:6C:14:6E:3E:DF:11
+Nome da Rede: Huawei-Employee
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+Calculating average RSSI
+-----------------------
+
+
+Calculating average RSSI
+-----------------------
+
+
+MAC:44:D2:44:DC:BD:3B
+Nome da Rede: CDG2-HC8D94tBqx09K0@
+Rssi:-81.00
+Distância do Modem é de 10.59 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:02:FA:C8
+Nome da Rede: WLL-Inatel
+Rssi:-75.00
+Distância do Modem é de 7.50 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:30:87:D9:42:FA:C8
+Nome da Rede: WLL-CDGHub
+Rssi:-72.00
+Distância do Modem é de 6.31 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:45:C2:78
+Nome da Rede: Inatel-BRDC-V
+Rssi:-73.00
+Distância do Modem é de 6.68 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C2:78
+Nome da Rede: WLL-Inatel
+Rssi:-73.00
+Distância do Modem é de 6.68 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:38:C0:B8
+Nome da Rede: WLL-Inatel
+Rssi:-83.00
+Distância do Modem é de 11.89 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:05:C2:38
+Nome da Rede: WLL-Inatel
+Rssi:-73.00
+Distância do Modem é de 6.68 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:B4:79:C8:45:C2:38
+Nome da Rede: Inatel-BRDC-V
+Rssi:-73.00
+Distância do Modem é de 6.68 metros.
+-----------------------
+
+
+Falha ao enviar dados.
+MAC:6C:14:6E:3E:DB:50
+Nome da Rede: wlanaccessv2.0
+Rssi:-80.00
+Distância do Modem é de 10.00 metros.
+-----------------------

@@ -1,0 +1,21 @@
+A)
+MATCH (usuario:Usuario)
+RETURN usuario.nome
+ORDER BY usuario.idade DESC
+LIMIT 1
+
+Resposta: Eve
+
+B)
+MATCH (usuario:Usuario)
+WHERE usuario.idade > 30
+RETURN count(usuario) AS quantidade
+
+Resposta: 3
+
+C)
+MATCH (usuario:Usuario)
+WITH avg(usuario.idade) AS media
+RETURN round(media) AS media
+
+Resposta: 35.0
