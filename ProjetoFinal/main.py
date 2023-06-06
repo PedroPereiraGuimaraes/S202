@@ -1,3 +1,8 @@
+from database import Database
+from teacher import TeacherDatabase
+# cria uma instância da classe Database, passando os dados de conexão com o banco de dados Neo4j
+db = Database("bolt://34.200.232.234:7687", "neo4j", "outfit-decisions-headquarters")
+db.drop_all()
 
 print("Bem vindo a nossa escola!\n"
       "Você tem algumas opções:\n")
